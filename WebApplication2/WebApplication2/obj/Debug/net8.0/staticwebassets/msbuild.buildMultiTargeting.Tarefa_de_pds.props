@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tarefa_de_pds.props" />
+</Project>
